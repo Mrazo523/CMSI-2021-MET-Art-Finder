@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  display: grid;
+  background-image: linear-gradient(white, grey);
+}
